@@ -6,7 +6,7 @@ const Pricing = ()=>{
         <section className="pricing padding-top padding-bottom">
         <div className="section-header section-header--max50">
           <h2 className="mb-15 mt-minus-5">Our <span>pricings </span>plan</h2>
-          <p>Don't Miss Out on the Opportunity to Elevate Your Trading Game. Choose Your Plan Today and Start Winning.</p>
+          <p>Dont Miss Out on the Opportunity to Elevate Your Trading Game. Choose Your Plan Today and Start Winning.</p>
         </div>
         <div className="container">
           <div className="pricing__wrapper">
