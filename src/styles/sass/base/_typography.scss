@@ -76,7 +76,9 @@ a {
 // p{
 //   color: $text-color;
 // }
-
+.imageofbannerhome{
+border-radius: 25px;
+}
 ul,
 ol {
   @extend %list-none;

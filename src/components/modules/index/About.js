@@ -17,7 +17,7 @@ function About() {
                   <div className="about__thumb-image floating-content">
                     <img
                       className="dark"
-                      src="/images/about/1.png"
+                      src="/images/about/about-dark.png"
                       alt="about-image"
                     />
                     <div className="floating-content__top-left">

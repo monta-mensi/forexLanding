@@ -21,7 +21,7 @@ export default function Home() {
     <>
       <Header headerClass="header-section--style2" />
       <Hero />
-      <Partner />
+      {/* <Partner /> */}
       <About />
       <Featured />
       <Services />  

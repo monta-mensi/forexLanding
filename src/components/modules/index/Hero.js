@@ -25,6 +25,7 @@ const Hero = () => {
             <div className="col-lg-6 col-md-7">
               <div
                 className="banner__content"
+                style={{ maxWidth: "25rem" }}
                 data-aos="fade-right"
                 data-aos-duration="1000"
               >
@@ -150,7 +151,7 @@ const Hero = () => {
                 <img
                   src="images/banner/home1/1.png"
                   alt="banner-thumb"
-                  className="dark"
+                  className="dark imageofbannerhome"
                 />
               </div>
             </div>

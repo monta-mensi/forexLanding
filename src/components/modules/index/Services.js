@@ -70,8 +70,8 @@ function Services() {
             <div className="col-sm-6 col-lg-4">
               <div className="service__item service__item--style1" data-aos="fade-up" data-aos-duration="1000">
                 <div className="service__item-inner text-center">
-                  <div className="service__item-thumb mb-30">
-                    <img className="dark" src="/images/service/5.png" alt="service-icon" />
+                  <div className="service__item-thumb mb-30 tradingsignal">
+                    <img className="dark tradingsignal" src="/images/service/riskmanagement-dark.jpeg" alt="service-icon" />
                   </div>
                   <div className="service-content">
                     <h5 className="mb-15"> <Link className="stretched-link" href="service-details">Risk Management Tools</Link> </h5>

@@ -5,25 +5,25 @@ const featureData = [
     Benefit: "Real-Time Data",
     rating: "images/feature/5.png",
     availableForLoan: 10,
-    img: "/images/feature/1.png",
+    // img: "/images/feature/1.png",
   },
   {
     Benefit: "Lower Commissions",
     rating: "images/feature/6.png",
     availableForLoan: 18,
-    img: "/images/feature/2.png",
+    // img: "/images/feature/2.png",
   },
   {
     Benefit: "Privacy and Security",
     rating: "images/feature/7.png",
     availableForLoan: 30,
-    img: "/images/feature/1.png",
+    // img: "/images/feature/1.png",
   },
   {
     Benefit: "Customer Support",
     rating: "images/feature/8.png",
     availableForLoan: 28,
-    img: "/images/feature/2.png",
+    // img: "/images/feature/2.png",
   },
 ];
 function Featured() {

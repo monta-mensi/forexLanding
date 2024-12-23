@@ -14,8 +14,8 @@ function Footer() {
               <div className="row gy-5 gx-4">
                 <div className="col-md-6">
                   <div className="footer__about">
-                    <Link href="/" className="footer__about-logo"><img src="images/logo/goldorLogo1-dark.svg"
-                      alt="Logo" /></Link>
+                    {/* <Link href="/" className="footer__about-logo"><img src="images/logo/goldorLogo1-dark.svg"
+                      alt="Logo" /></Link> */}
                     <p className="footer__about-moto ">Join our community of passionate traders and unlock your full potential with our expert guidance and cutting-edge tools!</p>
                     {/* <div className="footer__app">
                       <div className="footer__app-item footer__app-item--apple">
